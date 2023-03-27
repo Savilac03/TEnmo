@@ -1,0 +1,14 @@
+2023-03-05T06:10:04.480009 404 : [{"timestamp":"2023-03-05T11:10:04.447+00:00","status":404,"error":"Not Found","message":"No message available","path":"/account/account"}]
+2023-03-05T06:12:30.2313712 404 : [{"timestamp":"2023-03-05T11:12:30.212+00:00","status":404,"error":"Not Found","message":"No message available","path":"/account/account"}]
+2023-03-05T22:13:08.1312942 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-03-05T22:13:24.4619625 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-03-05T22:19:07.8641131 404 : [{"timestamp":"2023-03-06T03:19:07.841+00:00","status":404,"error":"Not Found","message":"No message available","path":"/account/account"}]
+2023-03-05T22:21:48.1294519 404 : [{"timestamp":"2023-03-06T03:21:47.989+00:00","status":404,"error":"Not Found","message":"No message available","path":"/account/account"}]
+2023-03-05T22:26:24.3048077 404 : [{"timestamp":"2023-03-06T03:26:24.285+00:00","status":404,"error":"Not Found","message":"No message available","path":"/account/account"}]
+2023-03-05T22:26:24.3182894 404 : [{"timestamp":"2023-03-06T03:26:24.316+00:00","status":404,"error":"Not Found","message":"No message available","path":"/account/account"}]
+2023-03-05T22:28:01.6898953 404 : [{"timestamp":"2023-03-06T03:28:01.512+00:00","status":404,"error":"Not Found","message":"No message available","path":"/account/account"}]
+2023-03-05T22:32:20.8797725 404 : [{"timestamp":"2023-03-06T03:32:20.869+00:00","status":404,"error":"Not Found","message":"No message available","path":"/account/account"}]
+2023-03-05T22:32:51.1726698 404 : [{"timestamp":"2023-03-06T03:32:51.037+00:00","status":404,"error":"Not Found","message":"No message available","path":"/account/account"}]
+2023-03-05T22:37:23.6631845 404 : [{"timestamp":"2023-03-06T03:37:23.652+00:00","status":404,"error":"Not Found","message":"No message available","path":"/account/account"}]
+2023-03-05T22:44:57.6802761 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2023-03-05T23:00:23.2938496 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
